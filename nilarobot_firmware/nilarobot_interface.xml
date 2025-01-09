@@ -1,0 +1,10 @@
+<library path="nilarobot_firmware">
+    <class name="nilarobot_firmware/nilarobotInterface"
+      type="nilarobot_firmware::nilarobotInterface"
+      base_class_type="hardware_interface::SystemInterface"
+    >
+      <description>
+        nilarobot Hardware Interface
+      </description>
+    </class>
+  </library>
